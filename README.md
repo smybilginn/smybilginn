@@ -3,7 +3,7 @@
 <p align="center">
   👩‍💻 Computer Engineer | 🎓 MSc in Artificial Intelligence Engineering <br>
   🧠 AI · ML · NLP · Python Enthusiast <br>
-  🌱 Currently learning Deep Learning & Transformers <br>
+  🌱 Currently learning the foundations of Artificial Intelligence and Machine Learning using Python. <br>
   📫 Reach me on <a href="https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/">LinkedIn</a>
 </p>
 
@@ -63,7 +63,7 @@ My passion lies in building AI-powered systems and developing solutions with Pyt
 
 ## 🇹🇷 Hakkımda
 
-Ben bir Bilgisayar Mühendisiyim ve şu anda Yapay Zeka Mühendisliği yüksek lisans programına devam ediyorum.  
+Ben bir Bilgisayar Mühendisiyim ve şu anda Yapay Zeka Mühendisliği tezli yüksek lisans programına devam ediyorum.  
 Python diliyle çalışan, yapay zeka odaklı projeler geliştirmekten keyif alan bir mühendis adayıyım.
 
 🔍 İlgi Alanlarım:  
