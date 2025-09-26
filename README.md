@@ -4,7 +4,7 @@
   👩‍💻 Computer Engineer | 🎓 MSc in Artificial Intelligence Engineering <br>
   🧠 AI · ML · NLP · Python Enthusiast <br>
   🌱 Currently learning Deep Learning & Transformers <br>
-  📫 Reach me on <a href="https://www.linkedin.com/in/smybilginn/">LinkedIn</a>
+  📫 Reach me on <a href="https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/">LinkedIn</a>
 </p>
 
 ---
