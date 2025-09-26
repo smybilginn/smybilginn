@@ -56,7 +56,7 @@ My passion lies in building AI-powered systems and developing solutions with Pyt
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/smybilginn/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/)
 - 📧 (sumeyyeebilginn@hotmail.com)
 
 ---
@@ -103,7 +103,7 @@ Python diliyle çalışan, yapay zeka odaklı projeler geliştirmekten keyif ala
 
 ## 📬 İletişim
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/smybilginn/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/)
 - 📧 (sumeyyeebilginn@hotmail.com)
 
 ---
