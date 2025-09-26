@@ -2,7 +2,7 @@
 
 <p align="center">
   👩‍💻 Computer Engineer | 🎓 MSc in Artificial Intelligence Engineering <br>
-  🧠 AI · ML · NLP · Python Enthusiast <br>
+  🧠 AI · ML · NLP · Python <br>
   🌱 Currently learning the foundations of Artificial Intelligence and Machine Learning using Python. <br>
   📫 Reach me on <a href="https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/">LinkedIn</a>
 </p>
