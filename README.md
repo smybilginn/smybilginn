@@ -81,8 +81,4 @@ Python diliyle çalışan, yapay zeka odaklı projeler geliştirmekten keyif ala
 - 💼 [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-bilgin-099348204/)
 - 📧 (sumeyyeebilginn@hotmail.com)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smybilginn&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
