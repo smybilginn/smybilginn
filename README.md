@@ -41,18 +41,6 @@ My passion lies in building AI-powered systems and developing solutions with Pyt
 
 ---
 
-## 📘 Featured Projects
-
-- 🔍 [intro-to-ai-notes](https://github.com/smybilginn/intro-to-ai-notes)  
-  Notes and exercises from my AI studies.
-
-- 🐍 [python-course-notes](https://github.com/smybilginn/python-course-notes)  
-  A beginner-friendly Python learning repo.
-
-- 🧪 [ClassMetotDemo](https://github.com/smybilginn/ClassMetotDemo)  
-  C# class and method demo project.
-
----
 
 ## 📫 Contact
 
@@ -86,20 +74,7 @@ Python diliyle çalışan, yapay zeka odaklı projeler geliştirmekten keyif ala
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
 
-## 📘 Öne Çıkan Projeler
-
-- 🔍 [intro-to-ai-notes](https://github.com/smybilginn/intro-to-ai-notes)  
-  Yapay zeka eğitim notları ve örnekler.
-
-- 🐍 [python-course-notes](https://github.com/smybilginn/python-course-notes)  
-  Python temellerine yönelik başlangıç seviyesi içerik.
-
-- 🧪 [ClassMetotDemo](https://github.com/smybilginn/ClassMetotDemo)  
-  C# diliyle yazılmış sınıf/metot örnekleri.
-
----
 
 ## 📬 İletişim
 
